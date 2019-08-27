@@ -7,6 +7,7 @@ import {
 import {
   GoogleMaps,
   GoogleMap,
+  GoogleMapOptions,
   GoogleMapsEvent,
   Marker,
   GoogleMapsAnimation,
